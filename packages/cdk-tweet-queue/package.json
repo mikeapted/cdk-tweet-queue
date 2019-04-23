@@ -1,5 +1,5 @@
 {
-  "name": "cdk-tweet-queue",
+  "name": "@mikeapted/cdk-tweet-queue",
   "version": "0.1.10",
   "description": "Defines an SQS queue with tweet stream from a search",
   "main": "lib/index.js",
@@ -29,11 +29,7 @@
     "twitter",
     "constructs"
   ],
-  "author": {
-    "name": "Elad Ben-Israel",
-    "email": "elad.benisrael@gmail.com",
-    "url": "https://twitter.com/emeshbi"
-  },
+  "author": "mike.apted@gmail.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/eladb/cdk-tweet-queue.git"
@@ -57,5 +53,6 @@
   "peerDependencies": {
     "@aws-cdk/aws-sqs": "^0.28.0",
     "@aws-cdk/cdk": "^0.28.0"
-  }
+  },
+  "gitHead": "8fb8b31bf2cb28f088c1bc621105cd5d0d5ac979"
 }

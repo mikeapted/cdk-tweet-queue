@@ -1,5 +1,5 @@
 {
-  "name": "cdk-tweet-queue-poller",
+  "name": "@mikeapted/cdk-tweet-queue-poller",
   "version": "0.1.10",
   "description": "AWS Lambda function which executes a search query against Twitter and enqueus tweets into an SQS queue",
   "private": true,
@@ -14,7 +14,7 @@
     "cdk",
     "twitter"
   ],
-  "author": "elad.benisrael@gmail.clom",
+  "author": "mike.apted@gmail.com",
   "license": "Apache-2.0",
   "bundleDependencies": [
     "twitter",
