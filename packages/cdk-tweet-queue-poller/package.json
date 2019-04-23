@@ -1,6 +1,6 @@
 {
   "name": "@mikeapted/cdk-tweet-queue-poller",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "AWS Lambda function which executes a search query against Twitter and enqueus tweets into an SQS queue",
   "private": true,
   "main": "lib/index.js",
