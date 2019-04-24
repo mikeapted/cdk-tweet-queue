@@ -15,9 +15,9 @@
     "outdir": "dist",
     "targets": {
       "java": {
-        "package": "com.github.eladb.tweetqueue",
+        "package": "com.github.mikeapted.cdktweetqueue",
         "maven": {
-          "groupId": "com.github.eladb",
+          "groupId": "com.mikeapted.eladb",
           "artifactId": "cdk-tweet-queue"
         }
       }
@@ -29,10 +29,13 @@
     "twitter",
     "constructs"
   ],
-  "author": "mike.apted@gmail.com",
+  "author": {
+    "name": "Mike Apted",
+    "email": "mike.apted@gmail.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eladb/cdk-tweet-queue.git"
+    "url": "https://github.com/mikeapted/cdk-tweet-queue.git"
   },
   "license": "Apache-2.0",
   "dependencies": {

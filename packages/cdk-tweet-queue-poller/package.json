@@ -14,7 +14,10 @@
     "cdk",
     "twitter"
   ],
-  "author": "mike.apted@gmail.com",
+  "author": {
+    "name": "Mike Apted",
+    "email": "mike.apted@gmail.com"
+  },
   "license": "Apache-2.0",
   "bundleDependencies": [
     "twitter",
